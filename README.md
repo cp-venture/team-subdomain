@@ -7,6 +7,7 @@
   position: relative;
   overflow: hidden;
   width: 100%;
+  height: 500rem;
   padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
@@ -19,5 +20,13 @@
   right: 0;
   width: 100%;
   height: 100%;
+}
+.btn {
+display:none !important
+}
+.main-content {
+    max-width: 100%;
+    padding: 2rem 6rem;
+    margin: 0;
 }
   </style>
