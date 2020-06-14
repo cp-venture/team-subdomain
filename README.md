@@ -26,7 +26,7 @@ display:none !important
 }
 .main-content {
     max-width: 100%;
-    padding: 2rem 6rem;
+    padding: 2rem 0rem !important;
     margin: 0;
 }
   </style>
