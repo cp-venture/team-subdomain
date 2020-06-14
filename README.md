@@ -21,7 +21,7 @@
   width: 100%;
   height: 100%;
 }
-.btn {
+.btn, .cu-dashboard-doc-main__title {
 display:none !important
 }
 .main-content {
